@@ -1,6 +1,8 @@
-###Hi I'm Root Park
-#HYU Computer Software Engineering Student
+Hi I'm Root Park
+HYU Computer Software Engineering Student
 
-![RootPark's GitHub stats](https://https://github/RootPark/api?username=anuraghazra&theme=dark&show_icons=true)
+![header](https://capsule-render.vercel.app/api?text=Hello%20I'm%20RootPark&fontSize=40&fontAlign=30&fontColor=f2f2ff&type=waving)
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
+![RootPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=RootPark&theme=chartreuse-dark&show_icons=true)
+
