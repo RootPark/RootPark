@@ -11,9 +11,7 @@
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />  <img src="https://img.shields.io/badge/OpenGL-147EFB?style=flat&logo=opengl&logoColor=white" />  
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /> 
 
-
-
-
+## 💡 Misc
 ![RootPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=RootPark&theme=chartreuse-dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RootPark&layout=compact&theme=dark&exclude_repo=madcamp_week3)](https://github.com/anuraghazra/github-readme-stats)
 
