@@ -14,7 +14,3 @@
 ## 💡 Misc
 ![RootPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=RootPark&theme=chartreuse-dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RootPark&layout=compact&theme=dark&exclude_repo=madcamp_week3)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rmsdnjs518)](https://github.com/RootPark/RootPark)
-
-
