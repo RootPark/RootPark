@@ -3,7 +3,7 @@
 # WELCOME
 
 ### Hi I'm Root Park, HYU Computer Software Engineering Student
-- Interested in Mobile Application & Backend.
+- Interested in Mobile Application & Backend & Blockchain & Business.
 
 ## 🛠 Tech Stack
 
